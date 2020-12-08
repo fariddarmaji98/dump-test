@@ -1,4 +1,4 @@
 # dump-test
-Username: dumpadmin
-Password: dumpadmin
-Role: admin
+# Username: dumpadmin
+# Password: dumpadmin
+# Role: admin
